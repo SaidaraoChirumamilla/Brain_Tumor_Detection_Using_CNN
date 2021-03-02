@@ -38,23 +38,7 @@ Before running the programs, kindly install the requirements as given in Require
 * Use [deploy.py](deploy.py) script to access the classifier as an interactive web interface.
   * `python deploy.py`
 
-## Screenshots (Results & Web Interface)
 
-### Web Interface
-
-#### Home Page
-
-![index](results/web1.png)
-
-#### Classification Results via Web Interface
-
-![class 1](results/web2.png)
-
-![class 2](results/web3.png)
-
-![class 3](results/web4.png)
-
-### Classifier Evaluation
 
 #### Loss Graph
 
